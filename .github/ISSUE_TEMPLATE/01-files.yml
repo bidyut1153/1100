@@ -7,4 +7,7 @@ body:
     attributes:
       label: Problem description
       description: |
-        
+        Which files do you add?
+    validations:
+      required: true
+
