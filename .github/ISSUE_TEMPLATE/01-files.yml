@@ -3,7 +3,7 @@ description: "Create a report to help us improve"
 title: "Files: "
 labels: ["files request"]
 body:
-  - type: textarea
+  - type: input
     attributes:
       label: Problem description
       description: |
