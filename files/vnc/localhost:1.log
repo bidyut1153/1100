@@ -1,0 +1,403 @@
+InitConnectionLimits: MaxClients = 2048
+
+Xvnc TigerVNC 1.10.0 - built Apr  6 2022 04:32:49
+Copyright (C) 1999-2019 TigerVNC Team and many others (see README.rst)
+See https://www.tigervnc.org for information on TigerVNC.
+Underlying X server release 12000000, The X.Org Foundation
+
+
+Tue May 17 19:42:26 2022
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on local interface(s), port 5901
+ vncext:      created VNC server for screen 0
+Sync Extension 3.1
+[dix] Could not init font path element /data/data/com.termux/files/usr/share/fonts/misc/, removing from list!
+[dix] Could not init font path element /data/data/com.termux/files/usr/share/fonts/TTF/, removing from list!
+[dix] Could not init font path element /data/data/com.termux/files/usr/share/fonts/OTF/, removing from list!
+[dix] Could not init font path element /data/data/com.termux/files/usr/share/fonts/Type1/, removing from list!
+[dix] Could not init font path element /data/data/com.termux/files/usr/share/fonts/100dpi/, removing from list!
+[dix] Could not init font path element /data/data/com.termux/files/usr/share/fonts/75dpi/, removing from list!
+Popen: `"/data/data/com.termux/files/usr/bin/xkbcomp" -w 1 "-R/data/data/com.termux/files/usr/share/X11/xkb" -xkm "-" -em1 "The XKEYBOARD keymap compiler (xkbcomp) reports:" -emp "> " -eml "Errors from xkbcomp are not fatal to the X server" "/data/data/com.termux/files/usr/tmp/server-1.xkm"', fp = 0x7faa00c018
+Pclose: fp = 0x7faa00c018
+Loaded XKB keymap /data/data/com.termux/files/usr/tmp/server-1.xkm, defined=0x7f
+client(0): Reserved pid(15613).
+client(0): Reserved cmdname(/data/data/com.termux/files/usr/bin/Xvnc) and cmdargs(:1 -auth /data/data/com.termux/files/home/.Xauthority -desktop localhost:1 () -geometry 1024x768 -pn -rfbauth /data/data/com.termux/files/home/.vnc/passwd -rfbport 5901 -rfbwait 30000 -localhost).
+client(200000): Reserved pid(15622).
+client(200000): Reserved cmdname(/data/data/com.termux/files/usr/bin/dbus-launch) and cmdargs(--sh-syntax --exit-with-session xfce4-session).
+AllocNewConnection: client index = 1, socket fd = 8
+client(400000): Reserved pid(15633).
+client(400000): Reserved cmdname(/data/data/com.termux/files/usr/bin/dbus-launch) and cmdargs(--sh-syntax --exit-with-session xfce4-session).
+AllocNewConnection: client index = 2, socket fd = 9
+client(600000): Reserved pid(15622).
+client(600000): Reserved cmdname(xfce4-session) and cmdargs(NULL).
+AllocNewConnection: client index = 3, socket fd = 10
+client(800000): Reserved pid(15656).
+client(800000): Reserved cmdname(xfwm4) and cmdargs(NULL).
+AllocNewConnection: client index = 4, socket fd = 11
+
+(xfwm4:15656): xfwm4-WARNING **: 19:42:30.686: Cannot find a matching visual for the frame buffer config.
+
+(xfwm4:15656): xfwm4-WARNING **: 19:42:30.687: Cannot find a matching GLX config, vsync disabled.
+client(a00000): Reserved pid(15668).
+client(a00000): Reserved cmdname(xfsettingsd) and cmdargs(NULL).
+AllocNewConnection: client index = 5, socket fd = 13
+client(c00000): Reserved pid(15668).
+client(c00000): Reserved cmdname(xfsettingsd) and cmdargs(NULL).
+AllocNewConnection: client index = 6, socket fd = 15
+client(c00000): Released pid(15668).
+client(c00000): Released cmdline(xfsettingsd) and cmdargs(NULL).
+client(c00000): Reserved pid(15668).
+client(c00000): Reserved cmdname(xfsettingsd) and cmdargs(NULL).
+AllocNewConnection: client index = 6, socket fd = 15
+client(e00000): Reserved pid(15671).
+client(e00000): Reserved cmdname(xfce4-panel) and cmdargs(NULL).
+AllocNewConnection: client index = 7, socket fd = 16
+client(1000000): Reserved pid(15671).
+client(1000000): Reserved cmdname(xfce4-panel) and cmdargs(NULL).
+AllocNewConnection: client index = 8, socket fd = 17
+client(1000000): Released pid(15671).
+client(1000000): Released cmdline(xfce4-panel) and cmdargs(NULL).
+client(c00000): Released pid(15668).
+client(c00000): Released cmdline(xfsettingsd) and cmdargs(NULL).
+client(c00000): Reserved pid(15675).
+client(c00000): Reserved cmdname(Thunar) and cmdargs(--daemon).
+AllocNewConnection: client index = 6, socket fd = 15
+client(1000000): Reserved pid(15688).
+client(1000000): Reserved cmdname(xfdesktop) and cmdargs(NULL).
+AllocNewConnection: client index = 8, socket fd = 17
+client(1200000): Reserved pid(15688).
+client(1200000): Reserved cmdname(xfdesktop) and cmdargs(NULL).
+AllocNewConnection: client index = 9, socket fd = 18
+client(1400000): Reserved pid(15739).
+client(1400000): Reserved cmdname(/data/data/com.termux/files/usr/lib/xfce4/notifyd/xfce4-notifyd) and cmdargs(NULL).
+AllocNewConnection: client index = 10, socket fd = 14
+client(1600000): Reserved pid(15740).
+client(1600000): Reserved cmdname(xfce4-screensaver) and cmdargs(NULL).
+AllocNewConnection: client index = 11, socket fd = 21
+client(1800000): Reserved pid(15742).
+client(1800000): Reserved cmdname(xfsettingsd) and cmdargs(NULL).
+AllocNewConnection: client index = 12, socket fd = 22
+client(1800000): Released pid(15742).
+client(1800000): Released cmdline(xfsettingsd) and cmdargs(NULL).
+client(1800000): Reserved pid(15759).
+client(1800000): Reserved cmdname(/data/data/com.termux/files/usr/lib/xfce4/panel/wrapper-2.0) and cmdargs(/data/data/com.termux/files/usr/lib/xfce4/panel/plugins/libsystray.so 6 14680072 systray Status Tray Plugin Provides status notifier items (application indicators) and legacy systray items).
+AllocNewConnection: client index = 12, socket fd = 22
+
+** (xfdesktop:15688): WARNING **: 19:42:32.862: Failed to get system bus: Could not connect: No such file or directory
+client(1a00000): Reserved pid(15761).
+client(1a00000): Reserved cmdname(/data/data/com.termux/files/usr/lib/xfce4/panel/wrapper-2.0) and cmdargs(/data/data/com.termux/files/usr/lib/xfce4/panel/plugins/libnotification-plugin.so 10 14680073 notification-plugin Notification Plugin Notification plugin for the Xfce panel).
+AllocNewConnection: client index = 13, socket fd = 23
+client(1c00000): Reserved pid(15770).
+client(1c00000): Reserved cmdname(/data/data/com.termux/files/usr/lib/xfce4/panel/wrapper-2.0) and cmdargs(/data/data/com.termux/files/usr/lib/xfce4/panel/plugins/libactions.so 14 14680074 actions Action Buttons Log out, lock or other system actions).
+AllocNewConnection: client index = 14, socket fd = 19
+
+(wrapper-2.0:15761): GLib-GIO-CRITICAL **: 19:42:35.144: g_file_new_for_path: assertion 'path != NULL' failed
+
+(wrapper-2.0:15761): GLib-GIO-CRITICAL **: 19:42:35.145: g_file_monitor_file: assertion 'G_IS_FILE (file)' failed
+
+(wrapper-2.0:15761): GLib-GObject-WARNING **: 19:42:35.145: invalid (NULL) pointer instance
+
+(wrapper-2.0:15761): GLib-GObject-CRITICAL **: 19:42:35.145: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(wrapper-2.0:15761): Gtk-WARNING **: 19:42:35.145: Attempting to add a widget with type GtkToggleButton to a container of type XfcePanelPlugin, but the widget is already inside a container of type XfcePanelPlugin, please remove the widget from its existing container first.
+
+(xfce4-session:15622): xfce4-session-WARNING **: 19:42:35.358: failed to run script: Failed to execute child process “/usr/bin/pm-is-supported” (No such file or directory)
+
+(xfce4-session:15622): xfce4-session-WARNING **: 19:42:35.366: failed to run script: Failed to execute child process “/usr/bin/pm-is-supported” (No such file or directory)
+
+(xfce4-session:15622): xfce4-session-WARNING **: 19:42:35.374: failed to run script: Failed to execute child process “/usr/bin/pm-is-supported” (No such file or directory)
+
+(wrapper-2.0:15761): Gtk-WARNING **: 19:42:35.399: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner GtkToggleButton)
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+client(1e00000): Reserved pid(16301).
+client(1e00000): Reserved cmdname(/data/data/com.termux/files/usr/libexec/xfce4-screensaver-gl-helper) and cmdargs(NULL).
+AllocNewConnection: client index = 15, socket fd = 24
+client(1e00000): Released pid(16301).
+client(1e00000): Released cmdline(/data/data/com.termux/files/usr/libexec/xfce4-screensaver-gl-helper) and cmdargs(NULL).
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Xlib:  extension "DPMS" missing on display ":1.0".
+Warning: VNC extension does not support -reset, terminating instead. Use -noreset to prevent termination.
+client(1a00000): Released pid(15761).
+client(1a00000): Released cmdline(/data/data/com.termux/files/usr/lib/xfce4/panel/wrapper-2.0) and cmdargs(/data/data/com.termux/files/usr/lib/xfce4/panel/plugins/libnotification-plugin.so 10 14680073 notification-plugin Notification Plugin Notification plugin for the Xfce panel).
+client(1c00000): Released pid(15770).
+client(1c00000): Released cmdline(/data/data/com.termux/files/usr/lib/xfce4/panel/wrapper-2.0) and cmdargs(/data/data/com.termux/files/usr/lib/xfce4/panel/plugins/libactions.so 14 14680074 actions Action Buttons Log out, lock or other system actions).
+client(200000): Released pid(15622).
+client(200000): Released cmdline(/data/data/com.termux/files/usr/bin/dbus-launch) and cmdargs(--sh-syntax --exit-with-session xfce4-session).
+client(400000): Released pid(15633).
+client(400000): Released cmdline(/data/data/com.termux/files/usr/bin/dbus-launch) and cmdargs(--sh-syntax --exit-with-session xfce4-session).
+client(600000): Released pid(15622).
+client(600000): Released cmdline(xfce4-session) and cmdargs(NULL).
+
+(xfce4-session:15622): xfce4-session-WARNING **: 20:41:30.868: Unable to launch "xfsettingsd": Failed to execute child process “xfsettingsd” (No such file or directory)
+
+(xfce4-session:15622): xfce4-session-WARNING **: 20:41:30.877: Unable to launch "xfce4-panel": Failed to execute child process “xfce4-panel” (No such file or directory)
+client(800000): Released pid(15656).
+client(800000): Released cmdline(xfwm4) and cmdargs(NULL).
+
+(xfce4-session:15622): xfce4-session-WARNING **: 20:41:30.885: Failed to running discard command "rm": Failed to execute child process “rm” (No such file or directory)
+client(a00000): Released pid(15668).
+client(a00000): Released cmdline(xfsettingsd) and cmdargs(NULL).
+client(c00000): Released pid(15675).
+client(c00000): Released cmdline(Thunar) and cmdargs(--daemon).
+client(e00000): Released pid(15671).
+client(e00000): Released cmdline(xfce4-panel) and cmdargs(NULL).
+client(1000000): Released pid(15688).
+client(1000000): Released cmdline(xfdesktop) and cmdargs(NULL).
+client(1200000): Released pid(15688).
+client(1200000): Released cmdline(xfdesktop) and cmdargs(NULL).
+client(1400000): Released pid(15739).
+client(1400000): Released cmdline(/data/data/com.termux/files/usr/lib/xfce4/notifyd/xfce4-notifyd) and cmdargs(NULL).
+client(1600000): Released pid(15740).
+client(1600000): Released cmdline(xfce4-screensaver) and cmdargs(NULL).
+client(1800000): Released pid(15759).
+client(1800000): Released cmdline(/data/data/com.termux/files/usr/lib/xfce4/panel/wrapper-2.0) and cmdargs(/data/data/com.termux/files/usr/lib/xfce4/panel/plugins/libsystray.so 6 14680072 systray Status Tray Plugin Provides status notifier items (application indicators) and legacy systray items).
+
+Tue May 17 20:41:30 2022
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:nan ratio)
+
+(xfdesktop:15688): Gtk-WARNING **: 20:41:30.899: Could not find the icon 'user-home'. The 'hicolor' theme
+was not found either, perhaps you need to install it.
+You can get a copy from:
+	http://icon-theme.freedesktop.org/releases
+(dix) removing device 2
+(dix) removing device 3
+(dix) removing device 5
+(dix) removing device 4
+(dix) removing device 7
+(dix) removing device 6
+client(0): Released pid(15613).
+client(0): Released cmdline(/data/data/com.termux/files/usr/bin/Xvnc) and cmdargs(:1 -auth /data/data/com.termux/files/home/.Xauthority -desktop localhost:1 () -geometry 1024x768 -pn -rfbauth /data/data/com.termux/files/home/.vnc/passwd -rfbport 5901 -rfbwait 30000 -localhost).
