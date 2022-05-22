@@ -1,0 +1,10 @@
+#!/bin/bash
+
+mkdir freebsd-vm
+cd freebsd-vm
+apt install wget
+wget --continue https://download.freebsd.org/ftp/releases/VM-IMAGES/13.1-RC6/aarch64/Latest/FreeBSD-13.1-RC6-arm64-aarch64.qcow2.xz
+unxz FreeBSD-13.1-RC6-arm64-aarch64.qcow2.xz
+wget https://releases.linaro.org/components/kernel/uefi-linaro/15.12/release/qemu64/QEMU_EFI.fd
+pkg install qemu-system-aarch64-headless
+qemu-system-aarch64 -m 1024M -cpu cortex-a57 -M virt -bios QEMU_EFI.fd -serial telnet::4444,server -nographic -drive if=none,file="FreeBSD-13.1-RC6-arm64-aarch64.qcow2",id=hd0 -device virtio-blk-device,drive=hd0 -device virtio-net-device,netdev=net0 -netdev user,id=net0

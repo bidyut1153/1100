@@ -1,0 +1,5 @@
+git clone https://github.com/zolrath/wemux.git $PREFIX/share/wemux
+ln -s $PREFIX/share/wemux/wemux $PREFIX/bin/wemux
+cp $PREFIX/share/wemux/wemux.conf.example $PREFIX/etc/wemux.conf
+vim $PREFIX/etc/wemux.conf
+

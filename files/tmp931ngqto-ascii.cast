@@ -1,0 +1,11 @@
+{"version": 2, "width": 70, "height": 30, "timestamp": 1653061979, "env": {"SHELL": "/data/data/com.termux/files/usr/bin/bash", "TERM": "xterm-256color"}}
+[0.05128, "o", "\u001b[?2004h\u001b[33;1mu0_a134\r\r\n\u001b[0m\u001b[32;1m~$ \u001b[0m\u001b[1m"]
+[1.145474, "o", "."]
+[1.319644, "o", "."]
+[1.495981, "o", "."]
+[1.681042, "o", "."]
+[1.866148, "o", "."]
+[2.11471, "o", "\r\n\u001b[?2004l\r"]
+[2.195572, "o", ".....: command not found\r\n"]
+[2.200603, "o", "\u001b[?2004h\u001b[33;1mu0_a134\r\r\n\u001b[0m\u001b[32;1m~$ \u001b[0m\u001b[1m"]
+[2.846515, "o", "\u001b[?2004l\r\r\nexit\r\n"]
