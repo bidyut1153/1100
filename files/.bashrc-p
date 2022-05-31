@@ -1,0 +1,6 @@
+# Fancy Format
+# PS1='{}-{}-$(date +%D)-{$(date +%H:%M:%S)}-\h-\u>\w\n{.....}--using \h at $(uptime -p) on \$ '
+
+# its format
+PS1='C:\\Users\\\u\\> '
+
