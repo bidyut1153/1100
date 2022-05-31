@@ -1,0 +1,360 @@
+app:AMdroid
+package:com.amdroidalarmclock.amdroid
+Launcher:com.amdroidalarmclock.amdroid.MainActivity
+app:Awesome Alarm Clock
+package:com.soloseal.awesomealarmclock
+Launcher:com.soloseal.awesomealarmclock.MainActivity
+app:Analog Alarm Clock
+package:com.soloseal.analogalarmclock
+Launcher:com.soloseal.analogalarmclock.MainActivity
+app:3C Task Manager
+package:ccc71.tm
+Launcher:ccc71.tm.main
+app:Compass
+package:com.miui.compass
+Launcher:com.miui.compass.CompassActivity
+app:AnLinux
+package:exa.lnx.a
+Launcher:exa.lnx.a.MainUI
+app:Secure Box
+package:com.termoneplus.securebox
+Launcher:com.termoneplus.securebox.MainActivity
+app:Auto Clicker
+package:com.karta.tools.autoclickerfree
+Launcher:com.karta.tools.autoclickerfree.WelcomeActivity
+app:Bluetooth Keyboard & Mouse
+package:io.appground.blek
+Launcher:io.appground.blek.MainActivity
+app:Andronix
+package:studio.com.techriz.andronix
+Launcher:studio.com.techriz.andronix.AppClasses.Splash
+app:Alarm Clock
+package:com.ihandysoft.alarmclock
+Launcher:com.ihandysoft.alarmclock.DeskClock
+app:CalcTape
+package:de.sfr.calctape
+Launcher:de.sfr.calctape.activities.main.CalcTapeActivity
+app:Clock
+package:com.android.deskclock
+Launcher:com.android.deskclock.DeskClockTabActivity
+app:ConnectBot
+package:org.connectbot
+Launcher:org.connectbot.HostListActivity
+app:Counter
+package:com.pra.counter
+Launcher:com.pra.counter.EntryActivity
+app:Setup Wizard
+package:com.google.android.setupwizard
+Launcher:null
+app:Chrome
+package:com.android.chrome
+Launcher:com.google.android.apps.chrome.Main
+app:Compass
+package:kr.sira.compass
+Launcher:kr.sira.compass.Intro
+app:Auto Clicker
+package:com.truedevelopersstudio.automatictap.autoclicker
+Launcher:com.truedevelopersstudio.autoclicker.activities.SplashActivity
+app:Calculator MAGMA
+package:com.blogspot.turbocolor.magma_calc
+Launcher:com.blogspot.turbocolor.magma_calc.MainActivityTab
+app:Accurate Barometer
+package:com.arlabsmobile.barometerfree
+Launcher:com.arlabsmobile.barometer.MainActivity
+app:Battery
+package:simple.batttery.alarm
+Launcher:simple.batttery.alarm.main
+app:Scanner
+package:com.xiaomi.scanner
+Launcher:com.xiaomi.scanner.app.ScanActivity
+app:Atomic Time
+package:com.twiegold.atomictime
+Launcher:com.twiegold.atomictime.MainActivity
+app:Clock
+package:systems.sieber.fsclock
+Launcher:systems.sieber.fsclock.FullscreenActivity
+app:Digital Clock and Weather
+package:com.sonyericsson.digitalclockwidget2
+Launcher:com.sonyericsson.digitalclockwidget2.Info
+app:DroidVim
+package:com.droidvim
+Launcher:jackpal.androidterm.Term
+app:Google Play Movies & TV
+package:com.google.android.videos
+Launcher:com.google.android.youtube.videos.EntryPoint
+app:Dummy file generator
+package:jp.nomunomu.dummy
+Launcher:jp.nomunomu.dummy.ui.MainActivity
+app:Gallery
+package:com.miui.gallery
+Launcher:com.miui.gallery.activity.HomePageActivity
+app:Google Play services
+package:com.google.android.gms
+Launcher:null
+app:Device Info 360
+package:com.vishtekstudios.deviceinfo
+Launcher:com.vishtekstudios.deviceinfo.activities.SplashActivity
+app:Google Play Music
+package:com.google.android.music
+Launcher:com.android.music.activitymanagement.TopLevelActivity
+app:Duo
+package:com.google.android.apps.tachyon
+Launcher:com.google.android.apps.tachyon.MainActivity
+app:File Manager
+package:com.mi.android.globalFileexplorer
+Launcher:com.android.fileexplorer.FileExplorerTabActivity
+app:DroidEdit Free
+package:com.aor.droidedit
+Launcher:com.aor.droidedit.DroidEditFreeActivity
+app:ElectroCalc
+package:com.solarelectrocalc.electrocalc
+Launcher:com.solarelectrocalc.electrocalc.SplashActivity
+app:File Manager +
+package:com.alphainventor.filemanager
+Launcher:com.alphainventor.filemanager.activity.MainActivity
+app:File Rename
+package:com.gmail.ttea.studio.fr
+Launcher:com.gmail.ttea.studio.fr.RenameMainActivity
+app:Dcoder
+package:com.paprbit.dcoder
+Launcher:com.paprbit.dcoder.splash.Splash
+app:File Splitter Joiner
+package:com.gmail.ttea.studio.fsj
+Launcher:com.gmail.ttea.studio.fsj.SplitMainActivity
+app:Function Generator
+package:com.keuwl.functiongenerator
+Launcher:com.keuwl.functiongenerator.MainActivity
+app:Google
+package:com.google.android.googlequicksearchbox
+Launcher:com.google.android.googlequicksearchbox.SearchActivity
+app:Drive
+package:com.google.android.apps.docs
+Launcher:com.google.android.apps.docs.app.NewMainProxyActivity
+app:FS Explorer
+package:com.ioapps.fsexplorer
+Launcher:com.ioapps.fsexplorer.MainActivity
+app:Fennec File Manager
+package:com.fenneky.fennecfilemanager
+Launcher:com.fenneky.fennecfilemanager.SplashActivity
+app:Google Play services for Instant Apps
+package:com.google.android.instantapps.supervisor
+Launcher:null
+app:DS Barometer
+package:com.discipleskies.android.dsbarometer
+Launcher:com.discipleskies.android.dsbarometer.PermissionsActivity
+app:File manager
+package:pl.mkexplorer.kormateusz
+Launcher:pl.mkexplorer.kormateusz.MKexplorerActivity
+app:Good Night Alarm Clock
+package:com.soloseal.goodnightalarmclock
+Launcher:com.soloseal.goodnightalarmclock.MainActivity
+app:Device ID
+package:com.evozi.deviceid
+Launcher:com.evozi.deviceid.MainActivity
+app:FX
+package:nextapp.fx
+Launcher:nextapp.fx.ui.textedit.TextEditorActivity
+app:Gmail
+package:com.google.android.gm
+Launcher:com.google.android.gm.ConversationListActivityGmail
+app:Google Play Store
+package:com.android.vending
+Launcher:com.android.vending.AssetBrowserActivity
+app:Gboard
+package:com.google.android.inputmethod.latin
+Launcher:null
+app:Libraries for developers
+package:com.desarrollodroide.repos
+Launcher:com.desarrollodroide.repos.MainActivity
+app:Music Player
+package:com.musicplayer.player.mp3player.white
+Launcher:com.musicplayer.player.mp3player.white.activity.MainActivity
+app:Night Clock
+package:com.firebirdberlin.nightdream
+Launcher:com.firebirdberlin.nightdream.NightDreamActivity
+app:Material Terminal
+package:yarolegovich.materialterminal
+Launcher:yarolegovich.materialterminal.Term
+app:Nova Video Player
+package:org.courville.nova
+Launcher:org.courville.nova.browser.BrowserActivityVideo
+app:Nova Launcher
+package:com.teslacoilsw.launcher
+Launcher:com.teslacoilsw.launcher.NovaShortcutHandler
+app:Maps
+package:com.google.android.apps.maps
+Launcher:com.google.android.maps.MapsActivity
+app:Material Files
+package:me.zhanghai.android.files
+Launcher:me.zhanghai.android.files.filelist.FileListActivity
+app:Music
+package:com.miui.player
+Launcher:com.miui.player.ui.MusicBrowserActivity
+app:Moon Phase Alarm Clock
+package:com.soloseal.moonphasealarmclock
+Launcher:com.soloseal.moonphasealarmclock.MainActivity
+app:NightClock
+package:com.pransuinc.nightclock
+Launcher:com.pransuinc.nightclock.activity.MainActivity
+app:Kustom Widget
+package:org.kustom.widget
+Launcher:org.kustom.widget.picker.WidgetPicker
+app:Kitchen Radio
+package:com.lcg.home_radio
+Launcher:com.lcg.home_radio.Main
+app:Jota Text Editor
+package:jp.sblo.pandora.jota
+Launcher:jp.sblo.pandora.jota.Main
+app:Introspect
+package:com.pixplicity.devcheck
+Launcher:com.pixplicity.devcheck.activities.MainActivity
+app:Just Player
+package:com.brouken.player
+Launcher:com.brouken.player.PlayerActivity
+app:Memory Shredder
+package:com.gmail.ttea.studio.rfg
+Launcher:com.gmail.ttea.studio.rfg.GenerateMainActivity
+app:Mail
+package:com.android.email
+Launcher:com.android.email.activity.Welcome
+app:Huge Digital Clock
+package:com.cama.app.huge80sclock
+Launcher:com.cama.app.huge80sclock.SplashScreenActivity
+app:Multi Timer
+package:com.jee.timer
+Launcher:com.jee.timer.ui.activity.IntroActivity
+app:Notes
+package:com.miui.notes
+Launcher:com.miui.notes.ui.NotesListActivity
+app:One-Tap Timer 2
+package:com.soloseal.onetaptimer2
+Launcher:com.soloseal.onetaptimer2.MainActivity
+app:Hacker's Keyboard
+package:org.pocketworkstation.pckeyboard
+Launcher:org.pocketworkstation.pckeyboard.Main
+app:Memory Info
+package:com.gmail.ttea.studio.mu
+Launcher:com.gmail.ttea.studio.mu.MemoryMainActivity
+app:Memory Fill
+package:com.rektgames.memoryfill
+Launcher:com.rektgames.memoryfill.Views.TabbedActivity
+app:Square Home
+package:com.ss.squarehome2
+Launcher:com.ss.squarehome2.MyPreferencesActivity
+app:Termux
+package:com.termux
+Launcher:com.termux.app.TermuxActivity
+app:Terminal Emulator
+package:com.termoneplus
+Launcher:com.termoneplus.TermActivity
+app:VNC Viewer
+package:com.realvnc.viewer.android
+Launcher:com.realvnc.viewer.android.app.ConnectionChooserActivity
+app:Time and Memo
+package:wan.util.showtime
+Launcher:wan.util.showtime.ShowTimeConfigActivity
+app:Panecal
+package:jp.ne.kutu.Panecal
+Launcher:jp.ne.kutu.Panecal.SplashActivity
+app:Poweramp
+package:com.maxmpz.audioplayer
+Launcher:com.maxmpz.audioplayer.standard_adaptive
+app:TotalCmd-Wifi Transfer
+package:com.ghisler.tcplugins.wifitransfer
+Launcher:com.ghisler.tcplugins.wifitransfer.WifiReceiveActivity
+app:Travel Alarm Clock
+package:com.soloseal.travelalarmclock
+Launcher:com.soloseal.travelalarmclock.MainActivity
+app:Simple System Monitor
+package:com.dp.sysmonitor.app
+Launcher:com.dp.sysmonitor.app.activities.SplashActivity
+app:Total Commander
+package:com.ghisler.android.TotalCommander
+Launcher:com.ghisler.android.TotalCommander.TotalCommander
+app:Qute
+package:com.ddm.qute
+Launcher:com.ddm.qute.ui.MainActivity
+app:Treble Info
+package:tk.hack5.treblecheck
+Launcher:tk.hack5.treblecheck.ScrollingActivity
+app:Tick Tock Pendulum Clock
+package:com.soloseal.ticktockpendulumclock
+Launcher:com.soloseal.ticktockpendulumclock.MainActivity
+app:Package Names
+package:com.csdroid.pkg
+Launcher:com.csdroid.pkg.ui.home.MainActivity
+app:Secure Box
+package:com.termoneplus.securebox
+Launcher:com.termoneplus.securebox.MainActivity
+app:Simple File Manager
+package:com.simple.filemanager
+Launcher:com.concise.filemanager.FileManagerMainActivity
+app:PowerAudio Free
+package:xsoftstudio.musicplayer
+Launcher:xsoftstudio.musicplayer.ActivityMain
+app:Sunclock
+package:ch.hbenecke.sunday
+Launcher:ch.hbenecke.sunday.ActivityMain
+app:SystemPanel
+package:nextapp.sp
+Launcher:nextapp.sp.ui.MainActivity
+app:Weather
+package:com.miui.weather2
+Launcher:com.miui.weather2.ActivityWeatherMain
+app:Terminal Emulator
+package:jackpal.androidterm
+Launcher:jackpal.androidterm.Term
+app:Storage Isolation
+package:moe.shizuku.redirectstorage
+Launcher:moe.shizuku.redirectstorage.MainActivity
+app:RNX TMX
+package:com.awnto.rnx.rtmx
+Launcher:com.awnto.rnx.rtmx.app.termuwuxActivity
+app:UnicodePad
+package:jp.ddo.hotmist.unicodepad
+Launcher:jp.ddo.hotmist.unicodepad.UnicodeActivity
+app:Recorder
+package:com.android.soundrecorder
+Launcher:com.android.soundrecorder.SoundRecorder
+app:Task Killer
+package:com.androidrocker.taskkiller
+Launcher:com.androidrocker.taskkiller.MainActivity
+app:UniPlay Service
+package:com.milink.service
+Launcher:null
+app:Scanner
+package:com.xiaomi.scanner
+Launcher:com.xiaomi.scanner.app.ScanActivity
+app:System information
+package:com.magdalm.systemupdate
+Launcher:com.magdalm.systemupdate.SplashActivity
+app:T-UI
+package:ohi.andre.consolelauncher
+Launcher:ohi.andre.consolelauncher.LauncherActivity
+app:Shell Terminal Emulator
+package:com.acr.shellterminalemulator
+Launcher:com.acr.shellterminalemulator.MainActivity
+app:Temperature Alarm Clock
+package:com.soloseal.temperaturealarmclock
+Launcher:com.soloseal.temperaturealarmclock.MainActivity
+app:XBrowser
+package:com.xbrowser.play
+Launcher:com.mmbox.xbrowser.BrowserActivity
+app:WebMasterLite
+package:com.welant.webmaster.DEMO
+Launcher:com.welant.webmaster.EditorLite
+app:WhatWeather
+package:com.kolov.weatherstation
+Launcher:com.kolov.weatherstation.SplashScreenActivity
+app:YouTube
+package:com.google.android.youtube
+Launcher:com.google.android.youtube.app.honeycomb.Shell$HomeActivity
+app:Win-X Launcher (No Ads)
+package:com.InternityLabs.Launcher.WinX
+Launcher:crc64b49898e1315006a0.MainActivity
+app:X-plore
+package:com.lonelycatgames.Xplore
+Launcher:com.lonelycatgames.Xplore.Browser
+app:WebSharing Lite
+package:nextapp.websharing
+Launcher:nextapp.websharing.ui.HomeActivity

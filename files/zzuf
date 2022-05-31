@@ -1,0 +1,1 @@
+for i in $(seq 1000); do "$@" 2>&1 | zzuf -r $(calc 0.001 \* $i); clear; done

@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+printf '\33[32m~\33[0m $ '
+sleep 25
